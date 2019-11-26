@@ -1,0 +1,11 @@
+{
+	"name": "Test_Oracle",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "Oracle",
+		"typeProperties": {
+			"connectionString": "host=10.88.9.145;port=1521;servicename=HKUEDW;user id=APP_COMPASS"
+		}
+	}
+}

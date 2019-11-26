@@ -1,0 +1,11 @@
+{
+	"name": "Test_sql_server",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=False;data source=10.113.51.21;initial catalog=db_qms;user id=qmsread"
+		}
+	}
+}

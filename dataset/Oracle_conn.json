@@ -1,0 +1,13 @@
+{
+	"name": "Oracle_conn",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Test_Oracle",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "OracleTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
